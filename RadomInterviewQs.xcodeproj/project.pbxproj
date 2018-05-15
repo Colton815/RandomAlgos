@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB071FC520AB757600B7AEBC /* parse.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB071FC420AB757600B7AEBC /* parse.swift */; };
 		CB48525520A36BA5007C23DE /* Fib.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB48525420A36BA5007C23DE /* Fib.swift */; };
 		CB48525720A3715B007C23DE /* Chunks.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB48525620A3715B007C23DE /* Chunks.swift */; };
 		CBABF4FA2085985C00C100BD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBABF4F92085985C00C100BD /* main.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CB071FC420AB757600B7AEBC /* parse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parse.swift; sourceTree = "<group>"; };
 		CB48525420A36BA5007C23DE /* Fib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fib.swift; sourceTree = "<group>"; };
 		CB48525620A3715B007C23DE /* Chunks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chunks.swift; sourceTree = "<group>"; };
 		CBABF4F62085985C00C100BD /* RadomInterviewQs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RadomInterviewQs; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,6 +99,7 @@
 				CBABF50A2088163D00C100BD /* getPermutation.swift */,
 				CBABF50C20881CF100C100BD /* distinctPairs.swift */,
 				CBABF50E20884BBA00C100BD /* rangeAddition.swift */,
+				CB071FC420AB757600B7AEBC /* parse.swift */,
 				CBABF51020886B4400C100BD /* isSubsequence.swift */,
 				CBABF5122092F89500C100BD /* searchInsertPosition.swift */,
 				CB48525420A36BA5007C23DE /* Fib.swift */,
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBABF5092087D68200C100BD /* reverseWordsInAString.swift in Sources */,
+				CB071FC520AB757600B7AEBC /* parse.swift in Sources */,
 				CBDBD9A720A683D600924A93 /* reverseString.swift in Sources */,
 				CBABF515209301D600C100BD /* sumOfSquars.swift in Sources */,
 				CBABF5032085D17E00C100BD /* wordSearch.swift in Sources */,
