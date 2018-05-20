@@ -6,7 +6,4 @@
 //  Copyright © 2018 Stone. All rights reserved.
 //
 
-
 import Foundation
-
-

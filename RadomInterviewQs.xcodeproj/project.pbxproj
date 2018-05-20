@@ -26,6 +26,7 @@
 		CBABF51120886B4400C100BD /* isSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBABF51020886B4400C100BD /* isSubsequence.swift */; };
 		CBABF5132092F89500C100BD /* searchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBABF5122092F89500C100BD /* searchInsertPosition.swift */; };
 		CBABF515209301D600C100BD /* sumOfSquars.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBABF514209301D600C100BD /* sumOfSquars.swift */; };
+		CBB3E1F320B2231E0060DD0E /* missingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB3E1F220B2231E0060DD0E /* missingNumber.swift */; };
 		CBDBD9A720A683D600924A93 /* reverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBDBD9A620A683D600924A93 /* reverseString.swift */; };
 /* End PBXBuildFile section */
 
@@ -62,6 +63,7 @@
 		CBABF51020886B4400C100BD /* isSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isSubsequence.swift; sourceTree = "<group>"; };
 		CBABF5122092F89500C100BD /* searchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchInsertPosition.swift; sourceTree = "<group>"; };
 		CBABF514209301D600C100BD /* sumOfSquars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumOfSquars.swift; sourceTree = "<group>"; };
+		CBB3E1F220B2231E0060DD0E /* missingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = missingNumber.swift; sourceTree = "<group>"; };
 		CBDBD9A620A683D600924A93 /* reverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reverseString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,6 +105,7 @@
 				CB071FC820ACA7C100B7AEBC /* checkStudentRecord.swift */,
 				CB48525620A3715B007C23DE /* Chunks.swift */,
 				CBABF50420867A1900C100BD /* countPrimes.swift */,
+				CBB3E1F220B2231E0060DD0E /* missingNumber.swift */,
 				CBABF506208695E900C100BD /* russianDollEnvelopes.swift */,
 				CBABF5082087D68200C100BD /* reverseWordsInAString.swift */,
 				CBA2A6E820ADFBF500E5D987 /* constructRectangle.swift */,
@@ -188,6 +191,7 @@
 				CBABF50520867A1900C100BD /* countPrimes.swift in Sources */,
 				CBABF50F20884BBA00C100BD /* rangeAddition.swift in Sources */,
 				CBA2A6E920ADFBF500E5D987 /* constructRectangle.swift in Sources */,
+				CBB3E1F320B2231E0060DD0E /* missingNumber.swift in Sources */,
 				CBABF507208695E900C100BD /* russianDollEnvelopes.swift in Sources */,
 				CB48525520A36BA5007C23DE /* Fib.swift in Sources */,
 				CBABF50120859C7200C100BD /* selfDividingNumbers.swift in Sources */,
